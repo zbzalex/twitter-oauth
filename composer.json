@@ -1,0 +1,19 @@
+{
+    "name": "zbzalex/twitter-oauth-php",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "config": {
+        "platform":{
+            "php": "7.4"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    }
+}
